@@ -145,7 +145,6 @@ pub fn head_direction(&self) ->Direction{
 
 
 
-
 pub fn next_head(&self -> Option<Direction>) -> (i32, i32) {
 let (head_x, head_y) : (i32, i32) = self.head_position();
 

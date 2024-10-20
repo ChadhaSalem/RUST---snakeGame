@@ -7,7 +7,7 @@ mod draw;
 
 mod snake;
  
- 
+mod game;
 
 
 
