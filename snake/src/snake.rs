@@ -106,13 +106,13 @@ pub fn head_position(&self)->(i32 , i32){
 
 
 
-pub fn move_forward(&mut self , dir:Option<Direction>
+pub fn move_forward(&mut self , dir:Option<Direction>)
 {
     match dir {
         Some(d) => self.direction = d ,
-        None => (),
+        None => (),}
     
-}
+
 
 
 
@@ -186,25 +186,18 @@ pub fn restore_tail(&mut self)
 
 
 
-pub fn overlap_tail(&self , x:i32 , y:i32 )-> bool {
-    let mut ch = 0 ;
+pub fn overlap_tail(&self, x: i32, y: i32) -> bool {
+    let mut ch = 0;
     for block in &self.body {
-        if x=block.x && y=block.y{
+        if x == block.x && y == block.y {
             return true;
         }
 
-
-
-
-
-
-        ch+=1;
-        if ch = self.body.len()-1 {
-            break ;
-        }}
-        return false ;
+        ch += 1;
+        if ch == self.body.len() - 1 {
+            break;
+        }
+    }
+    false
 }
-
-
-
 }

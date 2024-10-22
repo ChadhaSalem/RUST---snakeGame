@@ -1,0 +1,11 @@
+C:\Users\Chatha\Desktop\RUST-snakegame\snake\target\debug\deps\libv_frame-50483547769066c0.rmeta: C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\Chatha\Desktop\RUST-snakegame\snake\target\debug\deps\libv_frame-50483547769066c0.rlib: C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\Chatha\Desktop\RUST-snakegame\snake\target\debug\deps\v_frame-50483547769066c0.d: C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs:

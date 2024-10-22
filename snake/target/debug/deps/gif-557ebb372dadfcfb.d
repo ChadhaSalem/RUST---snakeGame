@@ -1,0 +1,12 @@
+C:\Users\Chatha\Desktop\RUST-snakegame\snake\target\debug\deps\libgif-557ebb372dadfcfb.rmeta: C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\lib.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\traits.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\common.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\mod.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\decoder.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\converter.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\encoder.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\../README.md
+
+C:\Users\Chatha\Desktop\RUST-snakegame\snake\target\debug\deps\gif-557ebb372dadfcfb.d: C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\lib.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\traits.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\common.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\mod.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\decoder.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\converter.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\encoder.rs C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\../README.md
+
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\lib.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\traits.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\common.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\mod.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\decoder.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\reader\converter.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\encoder.rs:
+C:\Users\Chatha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.13.1\src\../README.md:
